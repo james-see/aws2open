@@ -1,0 +1,17 @@
+{
+	"AWS": {
+		"Amazon RDS": [
+			"MySQL",
+			"PostgreSQL",
+			"MariaDB"
+		],
+		"Amazon Aurora": [
+			"MySQL",
+			"PostgreSQL"
+		],
+		"Amazon ElastiCache": [
+			"Memcached",
+			"Redis"
+		]
+	}
+}
