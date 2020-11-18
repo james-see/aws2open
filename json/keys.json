@@ -12,6 +12,94 @@
 		"Amazon ElastiCache": [
 			"Memcached",
 			"Redis"
+		],
+		"Amazon Athena": [
+			"Presto",
+			"Apache Spark"
+		],
+		"Amazon CloudFormation": [
+			"Terraform",
+			"Pulumi",
+			"Ansible"
+		],
+		"Amazon CloudFront": [
+			"Fastly",
+			"Incapsula",
+			"MaxCDN",
+			"Cloudflare"
+		],
+		"Amazon Cognito": [
+			"Auth0",
+			"Okta",
+			"Keycloak"
+		],
+		"Amazon CodePipeline": [
+			"CircleCI",
+			"Jenkins",
+			"Bamboo",
+			"Github Actions"
+		],
+		"Amazon Connect": [
+			"Twilio",
+			"Zendesk",
+			"RingCentral",
+			"Avaya",
+			"Genesys"
+		],
+		"Amazon DynamoDB": [
+			"MongoDB"
+		],
+		"Amazon EBS": [
+			"Rook",
+			"Minio",
+			"Storj",
+			"OpenEBS"
+		],
+		"Amazon EMR": [
+			"Hadoop",
+			"Databricks",
+			"Snowflake"
+		],
+		"Amazon Kinesis": [
+			"Kafka",
+			"Spark",
+			"Storm"
+		],
+		"Amazon Lambda": [
+			"Serverless"
+		],
+		"Amazon Lightsail": [
+			"Digital Ocean",
+			"Linode",
+			"Heroku"
+		],
+		"Amazon Redshift": [
+			"Hadoop"
+		],
+		"Amazon S3": [
+			"Minio",
+			"Rook"
+		],
+		"Amazon SNS": [
+			"Twilio",
+			"Kafka"
+		],
+		"Amazon SQS": [
+			"Redis",
+			"Kafka",
+			"RabbitMQ",
+			"ActiveMQ"
+		],
+		"Amazon WAF": [
+			"Cloudflare",
+			"Incapsula",
+			"pfSense",
+			"Wazuh"
+		],
+		"Amazon Storage Gateway": [
+			"restic",
+			"Borg"
 		]
+			
 	}
 }
