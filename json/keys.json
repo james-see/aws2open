@@ -1,105 +1,144 @@
 {
-	"AWS": {
-		"Amazon RDS": [
+	"Amazon RDS": {
+		"alternatives": [
 			"MySQL",
 			"PostgreSQL",
 			"MariaDB"
-		],
-		"Amazon Aurora": [
+		]
+	},
+	"Amazon Aurora": {
+		"alternatives": [
 			"MySQL",
 			"PostgreSQL"
-		],
-		"Amazon ElastiCache": [
+		]
+	},
+	"Amazon ElastiCache": {
+		"alternatives": [
 			"Memcached",
 			"Redis"
-		],
-		"Amazon Athena": [
+		]
+	},
+	"Amazon Athena": {
+		"alternatives": [
 			"Presto",
 			"Apache Spark"
-		],
-		"Amazon CloudFormation": [
+		]
+	},
+	"Amazon CloudFormation": {
+		"alternatives": [
 			"Terraform",
 			"Pulumi",
 			"Ansible"
-		],
-		"Amazon CloudFront": [
+		]
+	},
+	"Amazon CloudFront": {
+		"alternatives": [
 			"Fastly",
 			"Incapsula",
 			"MaxCDN",
 			"Cloudflare"
-		],
-		"Amazon Cognito": [
+		]
+	},
+	"Amazon Cognito": {
+		"alternatives": [
 			"Auth0",
 			"Okta",
 			"Keycloak"
-		],
-		"Amazon CodePipeline": [
+		]
+	},
+	"Amazon CodePipeline": {
+		"alternatives": [
 			"CircleCI",
 			"Jenkins",
 			"Bamboo",
 			"Github Actions"
-		],
-		"Amazon Connect": [
+		]
+	},
+	"Amazon Connect": {
+		"alternatives": [
 			"Twilio",
 			"Zendesk",
 			"RingCentral",
 			"Avaya",
 			"Genesys"
-		],
-		"Amazon DynamoDB": [
+		]
+	},
+	"Amazon DynamoDB": {
+		"alternatives": [
 			"MongoDB"
-		],
-		"Amazon EBS": [
+		]
+	},
+	"Amazon EBS": {
+		"alternatives": [
 			"Rook",
 			"Minio",
 			"Storj",
 			"OpenEBS"
-		],
-		"Amazon EMR": [
+		]
+	},
+	"Amazon EMR": {
+		"alternatives": [
 			"Hadoop",
 			"Databricks",
 			"Snowflake"
-		],
-		"Amazon Kinesis": [
+		]
+	},
+	"Amazon Kinesis": {
+		"alternatives": [
 			"Kafka",
 			"Spark",
 			"Storm"
-		],
-		"Amazon Lambda": [
+		]
+	},
+	"Amazon Lambda": {
+		"alternatives": [
 			"Serverless"
-		],
-		"Amazon Lightsail": [
+		]
+	},
+	"Amazon Lightsail": {
+		"alternatives": [
 			"Digital Ocean",
 			"Linode",
 			"Heroku"
-		],
-		"Amazon Redshift": [
+		]
+	},
+	"Amazon Redshift": {
+		"alternatives": [
 			"Hadoop"
-		],
-		"Amazon S3": [
+		]
+	},
+	"Amazon S3": {
+		"alternatives": [
 			"Minio",
 			"Rook"
-		],
-		"Amazon SNS": [
+		]
+	},
+	"Amazon SNS": {
+		"alternatives": [
 			"Twilio",
 			"Kafka"
-		],
-		"Amazon SQS": [
+		]
+	},
+	"Amazon SQS": {
+		"alternatives": [
 			"Redis",
 			"Kafka",
 			"RabbitMQ",
 			"ActiveMQ"
-		],
-		"Amazon WAF": [
+		]
+	},
+	"Amazon WAF": {
+		"alternatives": [
 			"Cloudflare",
 			"Incapsula",
 			"pfSense",
 			"Wazuh"
-		],
-		"Amazon Storage Gateway": [
+		]
+	},
+	"Amazon Storage Gateway": {
+		"alternatives": [
 			"restic",
 			"Borg"
 		]
-			
 	}
 }
