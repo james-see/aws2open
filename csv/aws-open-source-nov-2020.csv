@@ -1,0 +1,6 @@
+Amazon RDS,Amazon Aurora,Amazon ElastiCache,Amazon Athena,Amazon CloudFormation,Amazon CloudFront,Amazon Cognito,Amazon CodePipeline,Amazon Connect,Amazon DynamoDB__-,Amazon EBS,Amazon EMR,Amazon Kinesis,Amazon Lambda__-,Amazon Lightsail,Amazon Redshift__-,Amazon S3,Amazon SNS,Amazon SQS,Amazon WAF,Amazon Storage Gateway
+MySQL,MySQL,Memcached,Presto,Terraform,Fastly,Auth0,CircleCI,Twilio,MongoDB,Rook,Hadoop,Kafka,Serverless,Digital Ocean,Hadoop,Minio,Twilio,Redis,Cloudflare,restic
+PostgreSQL,PostgreSQL,Redis,Apache Spark,Pulumi,Incapsula,Okta,Jenkins,Zendesk,,Minio,Databricks,Spark,,Linode,,Rook,Kafka,Kafka,Incapsula,Borg
+MariaDB,,,,Ansible,MaxCDN,Keycloak,Bamboo,RingCentral,,Storj,Snowflake,Storm,,Heroku,,,,RabbitMQ,pfSense,
+,,,,,Cloudflare,,Github Actions,Avaya,,OpenEBS,,,,,,,,ActiveMQ,Wazuh,
+,,,,,,,,Genesys,,,,,,,,,,,,
