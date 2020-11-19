@@ -1,144 +1,302 @@
-{
-	"Amazon RDS": {
-		"alternatives": [
-			"MySQL",
-			"PostgreSQL",
-			"MariaDB"
-		]
+[
+	{
+		"service": {
+			"Amazon RDS": [
+				{
+					"alternatives": "MySQL"
+				},
+				{
+					"alternatives": "PostgreSQL"
+				},
+				{
+					"alternatives": "MariaDB"
+				}
+			]
+		}
 	},
-	"Amazon Aurora": {
-		"alternatives": [
-			"MySQL",
-			"PostgreSQL"
-		]
+	{
+		"service": {
+			"Amazon Aurora": [
+				{
+					"alternatives": "MySQL"
+				},
+				{
+					"alternatives": "PostgreSQL"
+				}
+			]
+		}
 	},
-	"Amazon ElastiCache": {
-		"alternatives": [
-			"Memcached",
-			"Redis"
-		]
+	{
+		"service": {
+			"Amazon ElastiCache": [
+				{
+					"alternatives": "Memcached"
+				},
+				{
+					"alternatives": "Redis"
+				}
+			]
+		}
 	},
-	"Amazon Athena": {
-		"alternatives": [
-			"Presto",
-			"Apache Spark"
-		]
+	{
+		"service": {
+			"Amazon Athena": [
+				{
+					"alternatives": "Presto"
+				},
+				{
+					"alternatives": "Apache Spark"
+				}
+			]
+		}
 	},
-	"Amazon CloudFormation": {
-		"alternatives": [
-			"Terraform",
-			"Pulumi",
-			"Ansible"
-		]
+	{
+		"service": {
+			"Amazon CloudFormation": [
+				{
+					"alternatives": "Terraform"
+				},
+				{
+					"alternatives": "Pulumi"
+				},
+				{
+					"alternatives": "Ansible"
+				}
+			]
+		}
 	},
-	"Amazon CloudFront": {
-		"alternatives": [
-			"Fastly",
-			"Incapsula",
-			"MaxCDN",
-			"Cloudflare"
-		]
+	{
+		"service": {
+			"Amazon CloudFront": [
+				{
+					"alternatives": "Fastly"
+				},
+				{
+					"alternatives": "Incapsula"
+				},
+				{
+					"alternatives": "MaxCDN"
+				},
+				{
+					"alternatives": "Cloudflare"
+				}
+			]
+		}
 	},
-	"Amazon Cognito": {
-		"alternatives": [
-			"Auth0",
-			"Okta",
-			"Keycloak"
-		]
+	{
+		"service": {
+			"Amazon Cognito": [
+				{
+					"alternatives": "Auth0"
+				},
+				{
+					"alternatives": "Okta"
+				},
+				{
+					"alternatives": "Keycloak"
+				}
+			]
+		}
 	},
-	"Amazon CodePipeline": {
-		"alternatives": [
-			"CircleCI",
-			"Jenkins",
-			"Bamboo",
-			"Github Actions"
-		]
+	{
+		"service": {
+			"Amazon CodePipeline": [
+				{
+					"alternatives": "CircleCI"
+				},
+				{
+					"alternatives": "Jenkins"
+				},
+				{
+					"alternatives": "Bamboo"
+				},
+				{
+					"alternatives": "Github Actions"
+				}
+			]
+		}
 	},
-	"Amazon Connect": {
-		"alternatives": [
-			"Twilio",
-			"Zendesk",
-			"RingCentral",
-			"Avaya",
-			"Genesys"
-		]
+	{
+		"service": {
+			"Amazon Connect": [
+				{
+					"alternatives": "Twilio"
+				},
+				{
+					"alternatives": "Zendesk"
+				},
+				{
+					"alternatives": "RingCentral"
+				},
+				{
+					"alternatives": "Avaya"
+				},
+				{
+					"alternatives": "Genesys"
+				}
+			]
+		}
 	},
-	"Amazon DynamoDB": {
-		"alternatives": [
-			"MongoDB"
-		]
+	{
+		"service": {
+			"Amazon DynamoDB": [
+				{
+					"alternatives": "MongoDB"
+				}
+			]
+		}
 	},
-	"Amazon EBS": {
-		"alternatives": [
-			"Rook",
-			"Minio",
-			"Storj",
-			"OpenEBS"
-		]
+	{
+		"service": {
+			"Amazon EBS": [
+				{
+					"alternatives": "Rook"
+				},
+				{
+					"alternatives": "Minio"
+				},
+				{
+					"alternatives": "Storj"
+				},
+				{
+					"alternatives": "OpenEBS"
+				}
+			]
+		}
 	},
-	"Amazon EMR": {
-		"alternatives": [
-			"Hadoop",
-			"Databricks",
-			"Snowflake"
-		]
+	{
+		"service": {
+			"Amazon EMR": [
+				{
+					"alternatives": "Hadoop"
+				},
+				{
+					"alternatives": "Databricks"
+				},
+				{
+					"alternatives": "Snowflake"
+				}
+			]
+		}
 	},
-	"Amazon Kinesis": {
-		"alternatives": [
-			"Kafka",
-			"Spark",
-			"Storm"
-		]
+	{
+		"service": {
+			"Amazon Kinesis": [
+				{
+					"alternatives": "Kafka"
+				},
+				{
+					"alternatives": "Spark"
+				},
+				{
+					"alternatives": "Storm"
+				}
+			]
+		}
 	},
-	"Amazon Lambda": {
-		"alternatives": [
-			"Serverless"
-		]
+	{
+		"service": {
+			"Amazon Lambda": [
+				{
+					"alternatives": "Serverless"
+				}
+			]
+		}
 	},
-	"Amazon Lightsail": {
-		"alternatives": [
-			"Digital Ocean",
-			"Linode",
-			"Heroku"
-		]
+	{
+		"service": {
+			"Amazon Lightsail": [
+				{
+					"alternatives": "Digital Ocean"
+				},
+				{
+					"alternatives": "Linode"
+				},
+				{
+					"alternatives": "Heroku"
+				}
+			]
+		}
 	},
-	"Amazon Redshift": {
-		"alternatives": [
-			"Hadoop"
-		]
+	{
+		"service": {
+			"Amazon Redshift": [
+				{
+					"alternatives": "Hadoop"
+				}
+			]
+		}
 	},
-	"Amazon S3": {
-		"alternatives": [
-			"Minio",
-			"Rook"
-		]
+	{
+		"service": {
+			"Amazon S3": [
+				{
+					"alternatives": "Minio"
+				},
+				{
+					"alternatives": "Rook"
+				}
+			]
+		}
 	},
-	"Amazon SNS": {
-		"alternatives": [
-			"Twilio",
-			"Kafka"
-		]
+	{
+		"service": {
+			"Amazon SNS": [
+				{
+					"alternatives": "Twilio"
+				},
+				{
+					"alternatives": "Kafka"
+				}
+			]
+		}
 	},
-	"Amazon SQS": {
-		"alternatives": [
-			"Redis",
-			"Kafka",
-			"RabbitMQ",
-			"ActiveMQ"
-		]
+	{
+		"service": {
+			"Amazon SQS": [
+				{
+					"alternatives": "Redis"
+				},
+				{
+					"alternatives": "Kafka"
+				},
+				{
+					"alternatives": "RabbitMQ"
+				},
+				{
+					"alternatives": "ActiveMQ"
+				}
+			]
+		}
 	},
-	"Amazon WAF": {
-		"alternatives": [
-			"Cloudflare",
-			"Incapsula",
-			"pfSense",
-			"Wazuh"
-		]
+	{
+		"service": {
+			"Amazon WAF": [
+				{
+					"alternatives": "Cloudflare"
+				},
+				{
+					"alternatives": "Incapsula"
+				},
+				{
+					"alternatives": "pfSense"
+				},
+				{
+					"alternatives": "Wazuh"
+				}
+			]
+		}
 	},
-	"Amazon Storage Gateway": {
-		"alternatives": [
-			"restic",
-			"Borg"
-		]
+	{
+		"service": {
+			"Amazon Storage Gateway": [
+				{
+					"alternatives": "restic"
+				},
+				{
+					"alternatives": "Borg"
+				}
+			]
+		}
 	}
-}
+]
