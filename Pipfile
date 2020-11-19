@@ -11,6 +11,8 @@ jupyter = "*"
 pandavro = "*"
 
 [dev-packages]
+black = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.7.7"

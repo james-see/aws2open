@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/jamescampbell/.local/share/virtualenvs/aws2open-ngZhUoNs/bin/python"
+    "python.pythonPath": "/Users/jamescampbell/.local/share/virtualenvs/aws2open-ngZhUoNs/bin/python",
+    "python.linting.enabled": true
 }
